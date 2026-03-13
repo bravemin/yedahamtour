@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.YedahamTour" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/status_bar</item>
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="colorPrimary">@color/gold_primary</item>
+        <item name="colorPrimaryDark">@color/status_bar</item>
+        <item name="colorAccent">@color/gold_accent</item>
+    </style>
+
+    <style name="Theme.YedahamTour.Splash" parent="Theme.YedahamTour">
+        <item name="android:windowSplashScreenBackground">@color/cream_bg</item>
+    </style>
+</resources>

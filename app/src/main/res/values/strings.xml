@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">예다함투어</string>
+    <string name="no_internet">인터넷 연결을 확인해주세요</string>
+    <string name="retry">다시 시도</string>
+</resources>

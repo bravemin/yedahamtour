@@ -1,0 +1,3 @@
+-keepattributes *Annotation*
+-keepattributes JavascriptInterface
+-keep public class com.yedaham.tour.MainActivity$WebAppInterface
